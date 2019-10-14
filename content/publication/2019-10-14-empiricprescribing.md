@@ -3,6 +3,7 @@ title: "Feasibility of informing syndrome-level empiric antibiotic recommendatio
 author: Quentin Leclerc
 date: '2019-09-24'
 publication: "Wellcome Open Research"
+publication_types: ["2"]
 slug: empiricprescribing
 categories: []
 tags: []

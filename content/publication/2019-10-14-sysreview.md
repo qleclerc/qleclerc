@@ -3,6 +3,7 @@ title: "Mathematical modelling to study the horizontal transfer of antimicrobial
 author: Quentin Leclerc
 date: '2019-08-14'
 publication: "Journal of the Royal Society Interface"
+publication_types: ["2"]
 slug: sysreview
 categories: []
 tags: []
