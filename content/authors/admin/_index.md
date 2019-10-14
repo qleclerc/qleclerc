@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Quentin Leclerc
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student in Epidemiology & Population Health
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: London School of Hygiene & Tropical Medicine
+  url: "https://www.lshtm.ac.uk/aboutus/people/leclerc.quentin"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a PhD student focusing on the spread of antimicrobial resistance genes between bacteria.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Epidemiology
+- Antimicrobial Resistance
+- Mathematical Modelling
+- Microbiology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Epidemiology & Population Health
+    institution: London School of Hygiene & Tropical Medicine
+    year: 2019-ongoing
+  - course: MSc in Epidemiology
+    institution: Imperial College London
+    year: 2018-2019
+  - course: BSc in Microbiology
+    institution: Imperial College London
+    year: 2014-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +48,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/QuentinLclrc
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=oSDPjWIAAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4761-001X 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/qleclerc
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,11 +69,11 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a French PhD student at the London School of Hygiene & Tropical Medicine. I focus on the dynamics of horizontal transfer of antimicrobial resistance genes between bacteria. My work combines both microbiology and mathematical modelling methods to understand these dynamics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+When I'm not staring at code on my computer screen or culture plates in the lab, I'm a badminton player, video game enthusiast and movie amateur.
