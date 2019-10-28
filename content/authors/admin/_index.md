@@ -74,6 +74,6 @@ email: ""
 # - Visitors
 ---
 
-I am a French PhD student at the London School of Hygiene & Tropical Medicine. I focus on the dynamics of horizontal transfer of antimicrobial resistance genes between bacteria. My work combines both microbiology and mathematical modelling methods to understand these dynamics.
+Hello! I'm a French PhD student at the [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/). I focus on the horizontal transfer of antimicrobial resistance genes between bacteria. My work combines both microbiology and mathematical modelling methods to understand these dynamics. As part of this, I am also based at [St George's University of London](https://www.sgul.ac.uk/). For more information on what I do, please refer to my [Projects](/projects/) page.
 
 When I'm not staring at code on my computer screen or culture plates in the lab, I'm a badminton player, video game enthusiast and movie amateur.

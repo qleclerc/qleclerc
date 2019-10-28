@@ -16,9 +16,10 @@ comments: false  # Show comments?
 
 ## **PhD project**
 
-My PhD focuses on understanding the dynamics of horizontal transfer of antimicrobial resistance genes.
+My PhD focuses on understanding the process of horizontal transfer of antimicrobial resistance genes.
+We know that bacteria can exchange genes encoding antimicrobial resistance between them, however the exact dynamics of this are still unclear. At which rate does this occur? What influences the speed of the process? What is the impact of horizontal transfer on the overall public health consequences of antimicrobial resistance? These are some of the questions I'm trying to answer!
 
-I am supervised by [Dr Gwen Knight](https://gwenknight.github.io/) (LSHTM) and [Prof Jodi Lindsay](https://www.researchgate.net/profile/Jodi_Lindsay) (SGUL), and funded by the [MRC LID program](http://mrc-lid.lshtm.ac.uk/).
+My supervisors are [Dr Gwen Knight](https://gwenknight.github.io/) (LSHTM) and [Prof Jodi Lindsay](https://www.researchgate.net/profile/Jodi_Lindsay) (SGUL), and I am funded by an [MRC LID studentship](http://mrc-lid.lshtm.ac.uk/).
 
 Relevant publications for this can be found [here](https://qleclerc.netlify.com/publication/sysreview/).
 
@@ -31,7 +32,7 @@ Relevant publications for this can be found [here](https://qleclerc.netlify.com/
 ## **Wellcome Data Reuse Prize**
 
 Alongside several colleagues from LSHTM, I contributed to the winning entry for the [Data Re-use Prize](https://wellcome.ac.uk/news/new-data-re-use-prizes-help-unlock-value-research), a competition launched by the Wellcome Trust.
-Our work combined multiple open-access data sources to inform empiric prescribing of antibiotics around the world.
+We combined multiple open-access data sources to inform empiric prescribing of antibiotics around the world.
 
 Relevant publications for this can be found [here](https://qleclerc.netlify.com/publication/empiricprescribing/).
 
