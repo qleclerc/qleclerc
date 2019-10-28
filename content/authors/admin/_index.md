@@ -30,10 +30,10 @@ education:
   courses:
   - course: PhD in Epidemiology & Population Health
     institution: London School of Hygiene & Tropical Medicine
-    year: 2019-ongoing
+    year: 2018-ongoing
   - course: MSc in Epidemiology
     institution: Imperial College London
-    year: 2018-2019
+    year: 2017-2018
   - course: BSc in Microbiology
     institution: Imperial College London
     year: 2014-2017
