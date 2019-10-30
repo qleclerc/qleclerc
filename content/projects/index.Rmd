@@ -21,7 +21,7 @@ We know that bacteria can exchange genes encoding antimicrobial resistance betwe
 
 My supervisors are [Dr Gwen Knight](https://gwenknight.github.io/) (LSHTM) and [Prof Jodi Lindsay](https://www.researchgate.net/profile/Jodi_Lindsay) (SGUL), and I am funded by an [MRC LID studentship](http://mrc-lid.lshtm.ac.uk/).
 
-Relevant publications for this can be found [here](https://qleclerc.netlify.com/publication/sysreview/).
+Relevant publications for this can be found [here](/publication/sysreview/).
 
 <br>
 
@@ -34,7 +34,7 @@ Relevant publications for this can be found [here](https://qleclerc.netlify.com/
 Alongside several colleagues from LSHTM, I contributed to the winning entry for the [Data Re-use Prize](https://wellcome.ac.uk/news/new-data-re-use-prizes-help-unlock-value-research), a competition launched by the Wellcome Trust.
 We combined multiple open-access data sources to inform empiric prescribing of antibiotics around the world.
 
-Relevant publications for this can be found [here](https://qleclerc.netlify.com/publication/empiricprescribing/).
+Relevant publications for this can be found [here](/publication/empiricprescribing/).
 
 <br>
 
