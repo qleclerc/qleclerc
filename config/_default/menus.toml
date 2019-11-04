@@ -32,9 +32,16 @@
   url = "publication/"
   weight = 30
 
+
+[[main]]
+  name = "Conferences"
+  url = "conference/"
+  weight = 40
+
+
 [[main]]
   name = "Blog posts"
-  url = "posts/"
-  weight = 40
+  url = "post/"
+  weight = 50
 
 

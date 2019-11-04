@@ -1,0 +1,52 @@
+---
+title: 'Conferences'
+date: "2019-04-11T00:00:00Z"
+lastmod: "2019-04-11T00:00:00Z"
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+---
+
+I'm always looking for opportunities to share my work and see what others are doing in my research fields - here's a map of where I've been so far, and where I'll be going.
+
+If you're interested in what I presented at these conferences, please feel free to [contact me](/#contact) !
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+library(plotly)
+library(openxlsx)
+token <- "pk.eyJ1IjoicWxlY2xlcmMiLCJhIjoiY2sya2I4OHh3MWY3OTNnbnRyb2Rlems1ZiJ9.Vkoa91O2OR7hbt7rsT9kyA"    # You need your own token
+
+conf_data = read.xlsx("conf_data.xlsx")
+
+p <- conf_data %>%
+  plot_ly(
+    lat = ~lat,
+    lon = ~lon,
+    marker = list(size = 10),
+    color = ~Status,
+    colors = c("purple3", "royalblue3"),
+    type = 'scattermapbox',
+    hoverinfo = "text",
+    hovertext = paste(conf_data[,"City"], conf_data[,"Conf"], sep="\n")) %>%
+  layout(
+    mapbox = list(
+      style = 'dark',
+      accesstoken = token,
+      zoom = 2,
+      center = list(lat = mean(conf_data$lat), lon = mean(conf_data$lon))),
+    legend = list(x = 100, y = 0.5,
+                  font = list(
+                    size = 14,
+                    color = "#000"),
+                  bgcolor = "#E2E2E2",
+                  bordercolor = "#FFFFFF",
+                  borderwidth = 2))
+
+# Create a shareable link to your chart
+# Set up API credentials: https://plot.ly/r/getting-started
+chart_link = api_create(p, filename="dark-tile")
+chart_link
+```
