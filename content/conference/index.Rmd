@@ -30,7 +30,7 @@ p <- conf_data %>%
     colors = c("purple3", "royalblue3"),
     type = 'scattermapbox',
     hoverinfo = "text",
-    hovertext = paste(conf_data[,"City"], conf_data[,"Conf"], sep="\n")) %>%
+    hovertext = paste(conf_data[,"City"], conf_data[,"Conf"], conf_data[,"Date"], sep="\n")) %>%
   layout(
     mapbox = list(
       style = 'dark',

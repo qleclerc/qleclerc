@@ -1,0 +1,56 @@
+---
+title: 'EPIDEMICS7: Thoughts on being a little fish lost in a sea of sine and cosine waves'
+subtitle: 'A summary of my first "big" modelling conference experience'
+summary: A summary of my first "big" modelling conference experience
+authors:
+  - admin
+tags:
+  - Conference
+  - Thoughts
+categories:
+  - Conference
+date: "2019-12-10T00:00:00Z"
+lastmod: "2019-12-10T00:00:00Z"
+featured: false
+draft: false
+share: false
+profile: false
+comments: false
+
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+In the field of mathematical modelling of infectious diseases, there is one major international conference that is always mentionned: [EPIDEMICS](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics).
+For those of you unfamiliar with this, it takes place every 2 years, and alternates between Europe and the US. Since I only started my PhD in 2018, this year was the first EPIDEMICS conference I could attend. So, last week, I happily flew over to Charleston, South Carolina (check out my [conference map](/conference/) if you have no idea where that is) for EPIDEMICS7, which was both my **first "huge" conference**, and my **first modelling conference**! So here's a quick summary of this experience from a naive and innocent young researcher's point of view.
+
+
+### First "huge" conference
+
+Firstly, what do I mean by "huge"? More than **500 people** attended EPIDEMICS7, every time-slot had **3 parallel sessions** running simultaneously, and the total conference was over **4 days**. For comparison, previous conferences I've attended involved a maximum of 150-200 people, no parallel sessions, and were over 2-3 days. Now that I've defined this, the next question is: what does a "big" conference entail? *Surprisingly*, it didn't feel intimidating, since all of the people attending were broadly part of the same research field as me (more on that below). However, *unsurprisingly* this time, it was really exhausting (even excluding the jetlag). For the major part, the conference started at 8.30am and finished around 7.30pm. In addition, the parallel sessions, while giving more people the opportunity to speak, unfortunately led to a lot of running around between the different rooms where the talks I was interested in took place. With that type of organization also come inevitable sacrifices, as by definition I could only attend one third of the talks. Fortunately, the speakers could make their slides available on the conference app, a great idea! It might have also helped to try to plan with colleagues and split the talks between us if there were some we were all interested in - I didn't do it this time, but I'm keeping that idea in mind. In any case, taking time to go through the presentation list to highlight the ones I wanted to attend was totally worth it - I definitely recommend doing this. 
+
+
+### First modelling conference
+
+The second aspect that made this conference special for me was that it was on infectious disease modelling, my PhD field! This was the first time that I attended a conference centred around that research area, and it was absolutely incredible. Yes I did get lost more than once in complicated talks, but I still really enjoyed seeing the diversity of work presented. I think that when you're in your own research topic bubble, it's easy to forget that there is so much more going on outside, and to feel trapped in moments when you doubt whether what you're working on is really for you. A conference like this can help to remember that there are a lot of other research questions out there that you might find interesting and could work on! However, this requires some active networking to go talk to fellow researchers. This is definitely something I still need to focus on, but I'm nevertheless pretty happy since I managed to reconnect with a few people I used to work with, and to meet a few more with whom I look forward to staying in touch.
+
+I also had the pleasure of presenting some of my own work at the poster session, and I am now definitely convinced that if you're going to a conference, you **MUST** try to present something there. The best discussions I had during the week were with people who came up to my poster and were interested in the research I was/will be doing.
+
+![*Not sure who looks better, my poster or me?*](/img/blogposts/epidemicsposter.jpg)
+
+I guess my major criticism about the conference program is that there was no session on antimicrobial resistance. Admittedly, I'm biased since this is my research focus, yet this feels like a major omission.
+
+### Conclusion
+
+Overall, I had a great week at EPIDEMICS. It was exhausting and the organisation could have been better to avoid some of the running around, but it was an undeniably interesting and useful experience. Not going to lie though, it would have been a lot less enjoyable without all my CMMID PhD colleagues who were also there - thanks to them for . A few take-home tips from this novel experience from my "naive" perspective then:
+
+1. Spend some time before looking through the list of talks, the conference is way less stressful if you already have an idea of where you want to go
+2. Don't be afraid to be curious and talk to people, from what I've seen everyone is happy to discuss what they're up to; especially those presenting!
+3. If you're planning on attending any conference, try to present a poster or give a talk there, this is the best way to make sure you get something useful out of the event
+
+My next "big" conference will be [ECCMID](https://www.eccmid.org/) - stepping up in "big"-ness with 13 000 people expected!! Also exciting as it will be on microbiology this time; I look forward to it!
