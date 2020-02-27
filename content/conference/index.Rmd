@@ -19,6 +19,9 @@ library(plotly)
 library(openxlsx)
 token <- "pk.eyJ1IjoicWxlY2xlcmMiLCJhIjoiY2sya2I4OHh3MWY3OTNnbnRyb2Rlems1ZiJ9.Vkoa91O2OR7hbt7rsT9kyA"    # You need your own token
 
+Sys.setenv("plotly_username" = "qleclerc")
+Sys.setenv("plotly_api_key" = "TQMKux7y6xg9XpyU4oWE")
+
 conf_data = read.xlsx("conf_data.xlsx")
 
 p <- conf_data %>%
