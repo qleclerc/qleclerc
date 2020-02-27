@@ -31,7 +31,7 @@ Relevant publications for this can be found [here](/publication/sysreview/).
 
 ## **Wellcome Data Reuse Prize**
 
-Alongside several colleagues from LSHTM, I contributed to the winning entry for the [Data Re-use Prize](https://wellcome.ac.uk/news/new-data-re-use-prizes-help-unlock-value-research), a competition launched by the Wellcome Trust.
+Alongside several colleagues from LSHTM, I contributed to the winning entry for the [Data Re-use Prize](https://wellcome.ac.uk/news/new-data-re-use-prizes-help-unlock-value-research), a competition launched by the Wellcome Trust in 2018.
 We combined multiple open-access data sources to inform empiric prescribing of antibiotics around the world.
 
 Relevant publications for this can be found [here](/publication/empiricprescribing/).
@@ -52,7 +52,7 @@ In my MSc project, I examined the link between the spatial scale at which we sim
     For this, I was supervised by [Dr David Haw](https://www.imperial.ac.uk/people/d.haw) and [Prof Steven Riley](https://www.imperial.ac.uk/people/s.riley).
 
 * #### Assessing the community impact of insecticide-treated nets for malaria control
-This was my very first project on mathematical modelling, in the final year of my BSc. I modified an existing transmission dynamics model of malaria to visualise the indirect protection provided by insecticide-treated nets.
+This was my very first project on mathematical modelling, in the final year of my BSc. I modified an existing transmission dynamics model of malaria to visualise the indirect protection provided by insecticide-treated nets against mosquito bites.
 
     I was supervised by [Dr Thomas Churcher](https://www.imperial.ac.uk/people/thomas.churcher), to whom I am eternally grateful for introducing me to the field of mathematical modelling!
 
