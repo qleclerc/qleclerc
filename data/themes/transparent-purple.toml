@@ -7,8 +7,12 @@ light = true
 # Primary
 primary = "#290747"
 
+#if trying to tweak various colors to add elsewhere, also need to edit "themes/academic/assets" stuff
+#and /layouts/partials/functions/parse_theme
 # Menu
-menu_primary = "rgba(50,0,50,0.75)" # 500
+navbar_primary = "rgba(50,50,50,0.75)"
+
+menu_primary = "rgb(50,50,50)" # 500
 menu_text = "#fff"
 menu_text_active = "#9e9e9e" # A100
 menu_title = "#fff"
