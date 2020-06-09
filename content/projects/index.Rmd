@@ -35,7 +35,7 @@ I am currently involved in the COVID-19 response work by the Centre of Mathemati
 
 A complete list of the most recent coronavirus work by CMMID can be found [here](https://cmmid.github.io/topics/covid19/)
 
-My relevant publications for this can be found [here](/publication/covidtransmission/).
+My relevant publications for this can be found [here](/categories/covid-19/).
 
 <br>
 
