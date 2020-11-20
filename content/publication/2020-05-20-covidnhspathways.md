@@ -1,11 +1,11 @@
 ---
 title: "Analysis of temporal trends in potential COVID-19 cases reported through NHS Pathways England"
 author: Quentin Leclerc
-date: '2020-06-09'
+date: '2020-05-20'
 publication: "medRxiv"
 publication_types: ["2"]
-slug: nhspathways
-categories: ["COVID-19"]
+slug: covidnhspathways
+categories: ["COVID-19", "preprint"]
 tags: []
 subtitle: ''
 summary: ''

@@ -1,0 +1,36 @@
+---
+title: 'Who juggles best: circus performers or scientists?'
+subtitle: ''
+summary: A discussion about the workload of scientists, and the constant juggling between projects
+authors:
+  - admin
+tags:
+  - Work
+  - Thoughts
+categories:
+  - Thoughts
+date: "2020-01-23T00:00:00Z"
+lastmod: "2020-01-23T00:00:00Z"
+featured: false
+draft: false
+share: false
+profile: false
+comments: false
+
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+Discussion with Rene
+Discussion with Alexis
+Personal experience
+Seems like mostly ECRs talk about this, then it's not really mentionned - perhaps just widely accepted as part of the job? Still interesting to discuss because not necessarily explicitly told, and when student we only supposed to focus on one research project at a time
+Guilt about what doing, should be only working on current work? But need to finish before? What time spent doing each?
+
+![*Memes never lie*](/img/blogposts/projects_meme.jfif)
+

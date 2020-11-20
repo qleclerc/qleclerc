@@ -22,9 +22,10 @@ bio: I'm a PhD student focusing on the spread of antimicrobial resistance genes 
 
 interests:
 - Epidemiology
-- Antimicrobial Resistance
-- Mathematical Modelling
 - Microbiology
+- Mathematical Modelling
+- Antimicrobial Resistance
+- Infectious Diseases
 
 education:
   courses:
@@ -45,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:quentin.leclerc@lshtm.ac.uk # '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/QuentinLclrc
