@@ -39,6 +39,17 @@ date_format = "January 2, 2006"
   """
 
 [[news]]
+  title = "Health Economics placement at GlaxoSmithKline"
+  extra_url = ""
+  location = "Brussels, Belgium"
+  date_start = "2019-09-01"
+  description = """
+  3 months placement at GSK in Belgium. See [here](/publication/samindirectcosts/) for a bit about some of the work I did there.
+  
+  ![""](/img/news/bxl.jpg)
+  """
+
+[[news]]
   title = "Won the Wellcome AMR Data Re-Use Prize"
   extra_url = ""
   location = "London School of Hygiene & Tropical Medicine"

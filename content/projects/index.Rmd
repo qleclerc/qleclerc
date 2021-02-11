@@ -58,7 +58,13 @@ My relevant publications for this can be found [here](/publication/empiricprescr
 
 ## **Previous projects**
 
-As part of my previous studies, I was involved in other mathematical modelling projects:
+As part of my previous studies, I was involved in other research projects:
+
+* #### Comparing the Analysis and Results of a Modified Social Accounting Matrix Framework with Conventional Methods of Reporting Indirect Non-Medical Costs
+In 2019 I completed a 3 months placement in the Value Evidence team at GlaxoSmithKline (Wavres, Belgium). During this period, I worked on cost of disease evaluation, cost-effectiveness analysis and fiscal modelling.
+
+    Part of my work has been published, see [here](/publication/samindirectcosts/) for details.
+
 
 * #### The effect of structure and resolution on the dynamics of spatial epidemic models
 In my MSc project, I examined the link between the spatial scale at which we simulate epidemics and the results of such simulations. I focused on influenza in England, and developed a complete dynamic spatial model in R.

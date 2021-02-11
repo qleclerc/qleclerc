@@ -1,7 +1,7 @@
 ---
 title: 'Conferences'
 date: "2019-04-11T00:00:00Z"
-lastmod: "2019-04-11T00:00:00Z"
+lastmod: "2021-02-11T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -38,7 +38,7 @@ p <- conf_data %>%
     mapbox = list(
       style = 'dark',
       accesstoken = token,
-      zoom = 2,
+      zoom = 1.5,
       center = list(lat = mean(conf_data$lat), lon = mean(conf_data$lon))),
     legend = list(x = 100, y = 0.5,
                   font = list(
