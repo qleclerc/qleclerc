@@ -17,6 +17,26 @@ date_format = "January 2, 2006"
 #   Required fields are `title` and `date_start`.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[news]]
+  title = "Guest in the first FAIRly Open After Dark podcast episode"
+  extra_url = ""
+  location = "London, UK"
+  date_start = "2021-01-28"
+  description = """
+  I was a guest in the very first episode of the FAIRly Open After Dark podcast!
+  Alonsgide Colman O’Cathail and Zachary Loeb, I talked about the challenges and opportunities of open data, and the impact of COVID-19 on open science in general. You can listen [here](https://fairlyopenafterdark.podbean.com/e/going-viral/).
+  """
+  
+[[news]]
+  title = "Started work on COVID-19"
+  extra_url = ""
+  location = "London, UK"
+  date_start = "2020-03-25"
+  description = """
+  I became involved in multiple projects as part of the COVID-19 response at CMMID.
+  See [here](/categories/covid-19/) for relevant publications!
+  """
+
+[[news]]
   title = "Presented at UK Parliament AMR Event"
   extra_url = ""
   location = "Houses of Parliament, UK"
@@ -54,7 +74,7 @@ date_format = "January 2, 2006"
   extra_url = ""
   location = "London School of Hygiene & Tropical Medicine"
   date_start = "2019-04-25"
-  description = """Won the prize alongside LSHTM colleagues Gwen Knight, Nichola Naylor, Alex Aitken and Francesc Coll! More details in the [Projects section](/projects/).
+  description = """Won the prize alongside LSHTM colleagues Gwen Knight, Nichola Naylor, Alex Aitken and Francesc Coll! More details in the [Projects section](/projects/), and see [here](/publication/empiricprescribing/) for our publication on this work.
   
   ![""](/img/news/wellcome_team.jpg)
   """

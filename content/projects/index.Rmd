@@ -19,9 +19,9 @@ comments: false  # Show comments?
 My PhD focuses on understanding the process of horizontal transfer of antimicrobial resistance genes.
 We know that bacteria can exchange genes encoding antimicrobial resistance between them, however the exact dynamics of this are still unclear. At which rate does this occur? What influences the speed of the process? What is the impact of horizontal transfer on the overall public health consequences of antimicrobial resistance? These are some of the questions I'm trying to answer!
 
-My supervisors are [Dr Gwen Knight](https://gwenknight.github.io/) (LSHTM) and [Prof Jodi Lindsay](https://www.researchgate.net/profile/Jodi_Lindsay) (SGUL), and I am funded by an [MRC LID studentship](http://mrc-lid.lshtm.ac.uk/).
+My supervisors are [Dr Gwen Knight](https://gwenknight.github.io/) (LSHTM) and [Prof Jodi Lindsay](https://www.sgul.ac.uk/profiles/jodi-lindsay) (SGUL), and I am funded by an [MRC LID studentship](http://mrc-lid.lshtm.ac.uk/).
 
-My relevant publications for this can be found [here](/publication/sysreview/).
+My relevant publications for this can be found [here](/categories/phd-project/).
 
 <br>
 

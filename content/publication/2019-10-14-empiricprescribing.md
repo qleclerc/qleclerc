@@ -5,7 +5,7 @@ date: '2019-09-24'
 publication: "Wellcome Open Research"
 publication_types: ["2"]
 slug: empiricprescribing
-categories: ["Wellcome Data Reuse Prize"]
+categories: ["Wellcome Data Reuse Prize", "AMR"]
 tags: []
 subtitle: ''
 summary: ''
