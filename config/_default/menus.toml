@@ -38,14 +38,28 @@
 
 
 [[main]]
-  name = "Conferences"
-  url = "conference/"
+  name = "Public & media"
+  url = "media/"
   weight = 50
 
 
 [[main]]
-  name = "Blog posts"
-  url = "post/"
+  name = "Other"
+  identifier = "other"
   weight = 60
+
+
+[[main]]
+  name = "Conferences"
+  parent = "other"
+  url = "conference/"
+  weight = 61
+
+
+[[main]]
+  name = "Blog posts"
+  parent = "other"
+  url = "post/"
+  weight = 62
 
 
