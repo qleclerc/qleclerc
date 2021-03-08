@@ -1,6 +1,6 @@
 ---
-title: Public & media
-summary: List of public engagement & media activities.
+title: Outreach & media
+summary: List of outreach & media activities.
 date: ""
 
 reading_time: false  # Show estimated reading time?
