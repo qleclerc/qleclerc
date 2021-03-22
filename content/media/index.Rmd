@@ -18,6 +18,7 @@ In addition to my publications, I enjoy talking about my research in a more info
 
 ## **Blogs**
 
+- Microbiology Society - [“ 'A Sustainable Future' online focus groups”](https://microbiologysociety.org/blog/a-sustainable-future-online-focus-groups.html)
 - Wellcome Open Research Blog – [“Usability of publicly available datasets to help combat antimicrobial resistance”](https://blog.wellcomeopenresearch.org/2020/09/15/usability-of-publicly-available-datasets-to-help-combat-antimicrobial-resistance/)
 - Microbiology Society – [“An interdisciplinary approach to reveal the dynamics of generalized transduction of antimicrobial resistance genes”](https://microbiologysociety.org/our-work/75th-anniversary-a-sustainable-future/antimicrobial-resistance-amr/antimicrobial-resistance-amr-case-studies/dynamics-of-generalized-transduction-of-amr-genes.html)
 - SGUL Library Blog – [“Challenging but rewarding – Wellcome Trust Data Re-use Prize winner, Quentin Leclerc, on reusing open data”](https://stglibrary.wordpress.com/2019/05/02/challenging-but-rewarding-wellcome-trust-data-re-use-prize-winner-quentin-leclerc-on-reusing-open-data/)
