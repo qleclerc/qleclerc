@@ -14,7 +14,7 @@ comments: false  # Show comments?
 #image: ""
 ---
 
-In addition to my publications, I enjoy talking about my research in a more informal way through various blogs and media. If you'd like to discuss any aspect of my work, please don't hesitate to [contact me](/#contact)!
+In addition to my publications, I enjoy talking about my research in a more informal way through various blogs, media, and other outreach activities. If you'd like to discuss any aspect of my work, please don't hesitate to [contact me](/#contact)!
 
 ## **Blogs**
 
@@ -39,8 +39,9 @@ In addition to my publications, I enjoy talking about my research in a more info
 
 ***
 
-## **Podcasts**
-- FAIRly Open After Dark – [“Going Viral!”](https://fairlyopenafterdark.podbean.com/e/going-viral/)
+## **Other**
+- I'm a Scientist Get me out of here - ["Red Zone" (April 2021)](https://red21.imascientist.org.uk/)
+- FAIRly Open After Dark podcast – [“Going Viral!”](https://fairlyopenafterdark.podbean.com/e/going-viral/)
 
 
 
