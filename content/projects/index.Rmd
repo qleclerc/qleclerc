@@ -31,7 +31,7 @@ My relevant publications for this can be found [here](/categories/phd-project/).
 
 ## **COVID-19**
 
-I am currently involved in the COVID-19 response work by the Centre of Mathematical Modelling of Infectious Diseases at LSHTM. Notably, I contribute to the daily maintenance of our data pipeline, and have conducted various analyses on COVID-19 transmission in different settings.
+I have been involved in the COVID-19 response work by the Centre of Mathematical Modelling of Infectious Diseases at LSHTM. Notably, I contributed to the daily maintenance of our data pipeline, and have conducted various analyses on COVID-19 transmission in different settings.
 
 A complete list of the most recent coronavirus work by CMMID can be found [here](https://cmmid.github.io/topics/covid19/)
 
@@ -48,7 +48,7 @@ My relevant publications for this can be found [here](/categories/covid-19/).
 Alongside several colleagues from LSHTM, I contributed to the winning entry for the [Data Re-use Prize](https://wellcome.ac.uk/news/new-data-re-use-prizes-help-unlock-value-research), a competition launched by the Wellcome Trust in 2018.
 We combined multiple open-access data sources to inform empiric prescribing of antibiotics around the world.
 
-My relevant publications for this can be found [here](/publication/empiricprescribing/).
+This work has been published, and can be found [here](/publication/empiricprescribing/).
 
 <br>
 
