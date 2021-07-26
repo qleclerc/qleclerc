@@ -5,23 +5,39 @@
 
 main:
   - name: Home
-    url: '#about'
+    identifier: 'main'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: About
+    parent: "main"
+    url: '#about'
+    weight: 11
+  - name: Contact
+    parent: "main"
+    url: '#contact'
+    weight: 12
+  - name: News
+    url: 'news/'
     weight: 20
   - name: Projects
-    url: '#projects'
+    url: 'projects/'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
-    url: '#featured'
+    url: 'publication/'
+    weight: 40
+  - name: Outreach & Media
+    url: 'media/'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: Other
+    identifier: 'other'
     weight: 60
+  - name: Conferences
+    parent: "other"
+    url: 'conference'
+    weight: 61
+  - name: Blog posts
+    parent: "other"
+    url: 'post/'
+    weight: 62
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
