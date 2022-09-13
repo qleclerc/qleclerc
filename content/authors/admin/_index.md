@@ -14,11 +14,11 @@ role: PhD student in Epidemiology & Population Health
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Hygiene & Tropical Medicine
-  url: "https://www.lshtm.ac.uk/aboutus/people/leclerc.quentin"
+- name: Institut Pasteur
+  url: "https://research.pasteur.fr/en/member/quentin-leclerc/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a PhD student focusing on the spread of antimicrobial resistance genes between bacteria.
+bio: I'm a postdoc focusing on the impact of vaccines against AMR.
 
 interests:
 - Epidemiology
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Epidemiology & Population Health
     institution: London School of Hygiene & Tropical Medicine
-    year: 2018-ongoing
+    year: 2018-2022
   - course: MSc in Epidemiology
     institution: Imperial College London
     year: 2017-2018
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:quentin.leclerc@lshtm.ac.uk # '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:quentin.leclerc@pasteur.fr # '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/QuentinLclrc
@@ -75,6 +75,6 @@ email: ""
 # - Visitors
 ---
 
-Hello! I'm a French PhD student at the [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/), currently in my 3rd year. I focus on the horizontal transfer of antimicrobial resistance genes between bacteria. My work combines both microbiology and mathematical modelling methods to understand these dynamics. As part of this, I am also based at [St George's University of London](https://www.sgul.ac.uk/). For more information on what I do, please refer to my [Projects](/projects/) page.
+Hello! I'm a postdoctoral researcher at the [Institut Pasteur](https://www.pasteur.fr/) and the [CNAM](https://www.cnam.fr/) in Paris, France. I focus on the impact of vaccines against antimicrobial resistance (AMR). I am employed as part of the European project [PrIMAVeRa](https://www.primavera-amr.eu/). For more information on what I do, please refer to my [Projects](/projects/) page.
 
-When I'm not staring at code on my computer screen or culture plates in the lab, I'm a badminton player, video game enthusiast and movie amateur.
+When I'm not staring at code on my computer screen, I'm a climber, video game enthusiast and movie amateur.

@@ -17,6 +17,24 @@ date_format = "January 2, 2006"
 #   Required fields are `title` and `date_start`.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[news]]
+  title = "Started a postdoc at Institut Pasteur!"
+  extra_url = ""
+  location = "Paris, France"
+  date_start = "2022-09-05"
+  description = """
+  I've now moved back to France to start a postdoc at Institut Pasteur & the CNAM in Paris, where I'll be working on modelling the impact of vaccines against AMR. Head over to the [Projects section](/projects/) for more details.
+  """
+  
+[[news]]
+  title = "PhDone!"
+  extra_url = ""
+  location = "London, UK"
+  date_start = "2022-07-14"
+  description = """
+  I passed my PhD viva! A massive thanks to my two examiners Vincent Jansen & Michael Brockhurst for a super interesting (but exhausting) 3.5h-long discussion!
+  """
+
+[[news]]
   title = "Guest in the first FAIRly Open After Dark podcast episode"
   extra_url = ""
   location = "London, UK"

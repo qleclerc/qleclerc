@@ -13,6 +13,18 @@ comments: false  # Show comments?
 #caption: ""
 #image: ""
 ---
+## **Current postdoc work**
+
+In my current postdoc, I am modelling the impact of vaccines against AMR.
+The public health threat of AMR requires new solutions, and vaccines may offer an important opportunity to tackle this problem from multiple angles. Vaccines can act both directly against AMR to prevent infection and transmission of bacteria, and indirectly by reducing antibiotic consumption. However, there is an important need to guide R&D efforts on this topic, to identify which vaccines should be developed to have the greatest impact on AMR. As part of this aim, I am working to develop new mathematical models of AMR transmission in healthcare settings, and evaluate the potential impact of vaccines to reduce the threat of AMR in such settings.
+
+For this project, I am working within the research groups of [Prof Lulla Opatowski](https://gwenknight.github.io/) (Institut Pasteur) and [Prof Laura Temime](https://www.sgul.ac.uk/profiles/jodi-lindsay) (CNAM).
+
+<br>
+
+***
+
+<br>
 
 ## **PhD project**
 
